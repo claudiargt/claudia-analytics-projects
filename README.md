@@ -1,4 +1,4 @@
-# Hi there! I’m Claudia Garcia 👋
+# Well, hello there! I’m Claudia Garcia 👋
 
 I am a Master of Science in Business Analytics (MSBA) student at UC Irvine’s Paul Merage School of Business, with a background in economics and marketing. I pivoted into analytics after working in multicultural marketing and realizing that the most important consumer and business questions needed rigorous statistical and technical tools.
 
