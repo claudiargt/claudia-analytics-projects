@@ -1,6 +1,6 @@
 # Hi there! I’m Claudia Garcia 👋
 
-I am a Master of Science in Business Analytics (MSBA) student at UC Irvine’s Paul Merage School of Business, with a background in economics and marketing. I pivoted into analytics after working in multicultural marketing and realizing that many of the questions I cared about (such as how people engage with products, why campaigns work, and how decisions are made) needed more rigorous statistical and technical tools to be properly answered. 
+I am a Master of Science in Business Analytics (MSBA) student at UC Irvine’s Paul Merage School of Business, with a background in economics and marketing. I pivoted into analytics after working in multicultural marketing and realizing that the most relevant questions about consumers and businesses alike needed more rigorous statistical and technical tools to be properly answered. 
 
 I’m especially interested in data analytics at the intersection of user experience and marketing strategy, particularly for user-focused platforms shaped by pop culture and fast-moving trends. Through my coursework and projects, I’ve gained hands-on experience with regression and classification models, exploratory data analysis, feature engineering, and A/B testing concepts, while focusing on clearly communicating insights to different audiences.
 
