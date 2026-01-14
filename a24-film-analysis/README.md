@@ -41,4 +41,4 @@ Python, Pandas, NumPy, Scikit-learn, Regression Analysis, Random Forests, Explor
 
 ## Files
 - [Analysis Notebook](BANA212_Presentation_A24_Team10A.pdf)
-- [Project Slides](TEAM10A_A24_BoxOfficeAnalysis.ipynb)
+- [Project Slides](Team10A_A24_BoxOfficeAnalysis.ipynb)
