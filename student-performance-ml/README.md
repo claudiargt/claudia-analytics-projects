@@ -24,4 +24,5 @@ I am continuing to build on this work independently to strengthen my hands-on mo
 Python, Pandas, Scikit-learn, Exploratory Data Analysis, Data Interpretation
 
 ## Files
-[
+- [Analysis Notebook](ML_Team10A_SocialMedia.ipynb)
+- [Project Slides](BANA273_SocialMedia_Team10A.pdf)
