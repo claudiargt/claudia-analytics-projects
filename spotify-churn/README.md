@@ -35,5 +35,5 @@ Although this was a group project, my individual contributions included:
 Python, Pandas, Classification Models, Logistic Regression, Exploratory Data Analysis, Feature Engineering, Marketing Analytics
 
 ## Files
-[Analysis Notebook](Team10A_Spotify_Churn_Analysis.ipynb)
-[Project Slides](BANA205_Spotify_Team10A.pdf)
+- [Analysis Notebook](Team10A_Spotify_Churn_Analysis.ipynb)
+- [Project Slides](BANA205_Spotify_Team10A.pdf)
