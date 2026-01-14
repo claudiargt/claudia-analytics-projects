@@ -1,4 +1,4 @@
-# Welcome to my Data Analytics Project Repository!
+# 💻 Welcome to my Data Analytics Project Repository!
 
 This repository highlights a selection of projects completed since starting the MS in Business Analytics program. Currently,I’m building my technical skill set in Python, SQL, and R through coursework in Business Data Management and Customer & Social Analytics, along with applied projects involving exploratory data analysis, regression and classification models, feature engineering, and A/B testing concepts. I’m continuously learning, iterating, and refining how I communicate insights to both technical and non-technical audiences. See below for most recent projects.
 
@@ -12,4 +12,4 @@ This repository highlights a selection of projects completed since starting the 
 - [**Student Social Media & Academic Performance**](student-performance)  
   Exploring the relationship between usage patterns and academic outcomes using classification models.
 
-Feel free to explore!
+✨ Feel free to explore!
