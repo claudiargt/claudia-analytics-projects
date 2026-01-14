@@ -40,5 +40,5 @@ Although this was a group project, my individual contributions included:
 Python, Pandas, NumPy, Scikit-learn, Regression Analysis, Random Forests, Exploratory Data Analysis, Feature Engineering, Data Visualization
 
 ## Files
-- [Analysis Notebook](BANA212_Presentation_A24_Team10A.pdf)
-- [Project Slides](Team10A_A24_BoxOfficeAnalysis.ipynb)
+- [Analysis Notebook](Team10A_A24_BoxOfficeAnalysis.ipynb)
+- [Project Slides](BANA212_Presentation_A24_Team10A.pdf)
