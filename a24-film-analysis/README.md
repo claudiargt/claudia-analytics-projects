@@ -1,4 +1,4 @@
-# A24 IN THE FILM INDUSTRY
+# 🎬 A24 IN THE FILM INDUSTRY
 ### Understanding How a Prestige Indie Studio Compares to The Broader Film Industry Through Data
 
 ## Project Overview
