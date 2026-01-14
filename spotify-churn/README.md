@@ -1,4 +1,4 @@
-# 🎼 Staying in the Queue: Which Spotify Users Are Most Likely To Leave...and How to Keep Them
+# 🎼 STAYING IN THE QUEUE: Which Spotify Users Are Most Likely To Leave...and How to Keep Them
 
 ## Project Overview
 This project analyzes user behavior data to identify patterns associated with customer churn in a music streaming context. The goal was to understand how engagement metrics relate to user retention and to evaluate whether behavioral signals can help predict churn.
@@ -35,5 +35,5 @@ Although this was a group project, my individual contributions included:
 Python, Pandas, Classification Models, Logistic Regression, Exploratory Data Analysis, Feature Engineering, Marketing Analytics
 
 ## Files
-[Analysis Notebook]
-[Project Slides]
+[Analysis Notebook](Team10A_Spotify_Churn_Analysis.ipynb)
+[Project Slides](BANA205_Spotify_Team10A.pdf)
