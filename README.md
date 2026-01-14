@@ -16,7 +16,4 @@ This repository highlights a selection of projects completed since starting the 
 - **Student Social Media & Academic Performance**  
   Exploring the relationship between usage patterns and academic outcomes using classification models.
 
-- **Student Stress Factors (Statistical Analysis)**  
-  Analyzing survey data to understand factors influencing student stress using regression techniques.
-
 Feel free to explore!
