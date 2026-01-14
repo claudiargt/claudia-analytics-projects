@@ -1,5 +1,4 @@
-# 🎬 A24 IN THE FILM INDUSTRY
-### Understanding How a Prestige Indie Studio Compares to The Broader Film Industry Through Data
+# 🎬 A24 IN THE FILM INDUSTRY: Understanding How a Prestige Indie Studio Compares to The Broader Film Industry Through Data
 
 ## Project Overview
 This project analyzes how A24 films compare to the broader film industry in terms of box office performance once key factors like budget, genre, ratings, and release year are controlled for. Using a dataset of nearly 10,000 films from IMDb combined with a curated A24 dataset, we examine what actually drives revenue in theatrical releases and where A24 differentiates itself.
